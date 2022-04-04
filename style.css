@@ -1,0 +1,24 @@
+body
+{
+background-color: blueviolet;
+}
+
+#score
+{
+font-size: 20px;
+margin-left: 15px;
+
+}
+
+#timer
+{
+font-size: 20px;
+float: right;
+margin-right: 15px;
+}
+
+#sketch
+{
+color: rgb(169, 255, 143);
+
+}
